@@ -1,0 +1,12 @@
+Your name: Bruce Wu
+Your student ID:013210158
+Your major: Computer Science
+Your preferred email address: bruce.wu@sjsu.edu
+Check one: [X] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [X] No
+Place and semester where you took a programming course in Java: De Anza College Winter 2017
+Course number and grade received: CIS36 A/B grade: A
+Place and semester where you took a course in data structures: De Anza College Fall 2017
+Course number and grade received: CIS 22C grade: A
+Time it took you to answer the two questions below:
+Did you ask anyone for help? [ ] Yes, [X] No
