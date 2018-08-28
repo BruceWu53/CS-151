@@ -8,5 +8,5 @@ Place and semester where you took a programming course in Java: De Anza College 
 Course number and grade received: CIS36 A/B grade: A
 Place and semester where you took a course in data structures: De Anza College Fall 2017
 Course number and grade received: CIS 22C grade: A
-Time it took you to answer the two questions below:
+Time it took you to answer the two questions below: ~1.5 hours
 Did you ask anyone for help? [ ] Yes, [X] No
